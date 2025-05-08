@@ -13,7 +13,7 @@ An in-depth literature review covering foundational and advanced techniques in s
 - **Focus**: RNN architectures, sequence generation, VAEs
 - **Type**: Survey report  
 - **Tools**: N/A (theoretical)
-- **Path**: ./seq_generation
+- **Path**: `./seq_generation`
 
 ---
 
