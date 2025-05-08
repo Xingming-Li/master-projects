@@ -13,6 +13,7 @@ An in-depth literature review covering foundational and advanced techniques in s
 - **Focus**: RNN architectures, sequence generation, VAEs
 - **Type**: Survey report  
 - **Tools**: N/A (theoretical)
+- **Path**: ./seq_generation
 
 ---
 
@@ -22,6 +23,7 @@ A practical project exploring the performance of a cross-lingual dependency pars
 - **Focus**: Cross-lingual parsing, low-resource language NLP
 - **Type**: Experimental study
 - **Tools**: UUParser, Universal Dependencies
+- **Path**: ./parsing
 
 ---
 
@@ -31,6 +33,7 @@ A research project inspired by the "poverty of the stimulus" in human language l
 - **Focus**: Language model evaluation, syntactic competence, generalization
 - **Type**: Experimental research
 - **Tools**: LTGBERT, BLiMP, PyTorch
+- **Path**: ./babylm
 
 ---
 
