@@ -23,7 +23,7 @@ A practical project exploring the performance of a cross-lingual dependency pars
 - **Focus**: Cross-lingual parsing, low-resource language NLP
 - **Type**: Experimental study
 - **Tools**: UUParser, Universal Dependencies
-- **Path**: ./parsing
+- **Path**: `./parsing`
 
 ---
 
@@ -33,7 +33,7 @@ A research project inspired by the "poverty of the stimulus" in human language l
 - **Focus**: Language model evaluation, syntactic competence, generalization
 - **Type**: Experimental research
 - **Tools**: LTGBERT, BLiMP, PyTorch
-- **Path**: ./babylm
+- **Path**: `./babylm`
 
 ---
 
