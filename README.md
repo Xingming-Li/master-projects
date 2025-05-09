@@ -37,7 +37,7 @@ A research project inspired by the "poverty of the stimulus" in human language l
 
 ---
 
-### 4. ** Master's Thesis Overview (Multilingual NLP Efficiency through Model Compression and Adaptive Inference: Knowledge Distillation and Early Exit on XLM-R)**
+### 4. **Master's Thesis Overview (Multilingual NLP Efficiency through Model Compression and Adaptive Inference: Knowledge Distillation and Early Exit on XLM-R)**
 A research project inspired by the "poverty of the stimulus" in human language learning. Compact transformer models trained on limited input data are evaluated to demonstrate their ability to generalize syntactic patterns.
 
 - **Focus**: Multilingual NLP, knowledge distillation, early exit, model efficiency and optimization
