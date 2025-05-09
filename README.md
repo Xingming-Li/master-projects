@@ -32,7 +32,7 @@ A research project inspired by the "poverty of the stimulus" in human language l
 
 - **Focus**: Language model evaluation, syntactic competence, generalization
 - **Type**: Experimental research
-- **Tools**: LTGBERT, BLiMP, PyTorch
+- **Tools**: LTGBERT, BLiMP, PyTorch, Hugging Face, Transformers
 - **Path**: `./babylm`
 
 ---
@@ -42,7 +42,7 @@ A research project inspired by the "poverty of the stimulus" in human language l
 
 - **Focus**: Multilingual NLP, knowledge distillation, early exit, model efficiency and optimization
 - **Type**: Experimental research
-- **Tools**: XLM-R, XNLI, WikiANN, PyTorch
+- **Tools**: XLM-R, XNLI, WikiANN, PyTorch, Hugging Face, Transformers
 - **Path**: `./thesis`
 
 ## 📂 Structure
