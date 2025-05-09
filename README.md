@@ -1,7 +1,7 @@
-# Master's Course Project Portfolio  
-This repository contains selected project reports from my Master's studies in Language Technology at Uppsala University. These works reflect my academic background and research interests in natural language processing (NLP), machine learning, cross-lingual NLP, and human-machine comparison and collaboration.
+# Master's Course Project and Thesis Portfolio  
+This repository contains selected project reports and a master's thesis overview from my master's studies in Language Technology at Uppsala University. These works reflect my academic background and research interests in natural language processing (NLP), machine learning, cross-lingual NLP, and human-machine comparison and collaboration.
 
-Each report addresses a unique challenge in the field, blending theoretical insight with hands-on experimentation using modern tools and models.
+Each document addresses a unique challenge in the field, blending theoretical insight with hands-on experimentation using modern tools and models.
 
 ---
 
@@ -32,14 +32,22 @@ A research project inspired by the "poverty of the stimulus" in human language l
 
 - **Focus**: Language model evaluation, syntactic competence, generalization
 - **Type**: Experimental research
-- **Tools**: LTGBERT, BLiMP, PyTorch
+- **Tools**: LTGBERT, BLiMP, PyTorch, Hugging Face, Transformers
 - **Path**: `./babylm`
 
 ---
 
+### 4. **Master's Thesis Overview (Multilingual NLP Efficiency through Model Compression and Adaptive Inference: Knowledge Distillation and Early Exit on XLM-R)**
+A research project inspired by the "poverty of the stimulus" in human language learning. Compact transformer models trained on limited input data are evaluated to demonstrate their ability to generalize syntactic patterns.
+
+- **Focus**: Multilingual NLP, knowledge distillation, early exit, model efficiency and optimization
+- **Type**: Experimental research
+- **Tools**: XLM-R, XNLI, WikiANN, PyTorch, Hugging Face, Transformers
+- **Path**: `./thesis`
+
 ## 📂 Structure
 Each folder contains:
-- 📘 Project report (PDF)
+- 📘 Project report or overview (PDF)
 - 📝 Supplementary materials (code/data snippets if applicable)
 - 📄 README (optional, for detailed context)
 
