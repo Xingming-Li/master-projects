@@ -1,5 +1,5 @@
 # Master's Course Project and Thesis Portfolio  
-This repository contains selected project reports and a master's thesis overview from my master's studies in Language Technology at Uppsala University. These works reflect my academic background and research interests in natural language processing (NLP), machine learning, cross-lingual NLP, and human-machine comparison and collaboration.
+This repository contains selected project reports and a master's thesis overview from my master's studies in Language Technology at Uppsala University. These works reflect my academic background and research interests in natural language processing (NLP), machine learning, large language model efficiency, and human-machine comparison and collaboration.
 
 Each document addresses a unique challenge in the field, blending theoretical insight with hands-on experimentation using modern tools and models.
 
