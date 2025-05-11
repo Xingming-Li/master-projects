@@ -40,7 +40,7 @@ A research project inspired by the "poverty of the stimulus" in human language l
 ### 4. **Master's Thesis Overview (Multilingual NLP Efficiency through Model Compression and Adaptive Inference: Knowledge Distillation and Early Exit on XLM-R)**
 This master's thesis investigates methods to improve the efficiency of a large multilingual transformer model (XLM-R) without sacrificing cross-lingual generalization performance much. Specifically, the project focuses on compressing XLM-R Large into XLM-R Base using knowledge distillation, and applying early exit mechanism as an adaptive inference technique to further reduce inference cost.
 
-- **Focus**: Multilingual NLP, knowledge distillation, early exit, model efficiency and optimization
+- **Focus**: Multilingual NLP, model, compression, adaptive inference, model efficiency and optimization
 - **Type**: Experimental research
 - **Tools**: XLM-R, XNLI, WikiANN, PyTorch, Hugging Face, Transformers
 - **Path**: `./thesis`
